@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sonda
+title: "About Me"
 permalink: /
 ---
 
