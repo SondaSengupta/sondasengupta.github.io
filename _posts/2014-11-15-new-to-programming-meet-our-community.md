@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New to Programming? Meet our Tech Community!
+title: Meet our Tech Community!
 img: "/images/nashvillenight.jpg"
 date: 2014-11-15
 ---

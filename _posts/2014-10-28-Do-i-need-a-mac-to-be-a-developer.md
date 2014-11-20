@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I have Windows. Do I need a Mac to be a Developer?"
+img: "/images/windows.jpg"
 date: 2014-10-28
 ---
 

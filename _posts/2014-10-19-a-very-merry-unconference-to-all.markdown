@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  A Very Merry Unconference at Barcamp 2014
+img: "/images/barcamp.png"
 date:   2014-10-19
 ---
 
