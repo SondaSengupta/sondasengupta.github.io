@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coding at HackNashville 6!
+img: "/images/hacknashville6.jpeg"
 date: 2014-11-10
 ---
 Coding at Hack Nashville 6!

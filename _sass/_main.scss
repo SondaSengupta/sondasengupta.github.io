@@ -15,17 +15,32 @@
   }
 }
 
-.tile {
+.home-tile {
 float: left;
 display: block;
-margin-right: 2.35765%;
+margin: 4.35765%;
 width: 23.23176%;
 h3 {
   font-size: 1.5em;
   font-weight: bold;
   }
+
 }
 
 .home-body h1.post-title{
   display: none;
+}
+
+.blog-tile {
+  display: inline-block;
+  margin: 2.35765%;
+  width: 23.23176%;
+  .post-link{
+    font-weight: bold;
+  }
+  img {
+    height: 200px;
+    width: 200px;
+    display: block;
+  }
 }
