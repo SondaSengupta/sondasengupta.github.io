@@ -1,0 +1,31 @@
+.page-lead {
+  background-image: url(https://lh6.googleusercontent.com/-wNh-SP0ZtUc/U1KaBndvMeI/AAAAAAAAEuE/3NPeYIgSFRM/w958-h539-no/IMG_20130813_132531_027.jpg);
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+  color: white;
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  padding: 100px 50px;
+  h1 {
+    font-size: 3rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+.tile {
+float: left;
+display: block;
+margin-right: 2.35765%;
+width: 23.23176%;
+h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+  }
+}
+
+.home-body h1.post-title{
+  display: none;
+}
