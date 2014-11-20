@@ -17,6 +17,19 @@
   }
 }
 
+.home-button {
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 2em;
+  opacity: .7;
+  text-shadow: none;
+}
+
+.home-button:hover {
+  background-color: lightgray;
+  text-decoration: none;
+}
 .home-tile {
 float: left;
 display: block;
@@ -26,7 +39,6 @@ h3 {
   font-size: 1.5em;
   font-weight: bold;
   }
-
 }
 
 .home-body h1.post-title{
