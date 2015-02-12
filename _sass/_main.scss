@@ -1,6 +1,8 @@
 .page-lead {
-  background-image: url(https://lh6.googleusercontent.com/-wNh-SP0ZtUc/U1KaBndvMeI/AAAAAAAAEuE/3NPeYIgSFRM/w958-h539-no/IMG_20130813_132531_027.jpg);
-  background-attachment: fixed;
+  background-image: url(https://ununsplash.imgix.net/uploads/1413259835094dcdeb9d3/6e609595?q=75&fm=jpg&s=6a4fc66161293fc4a43a6ca6f073d1c5);
+/*   previous image was at https://lh6.googleusercontent.com/-wNh-SP0ZtUc/U1KaBndvMeI/AAAAAAAAEuE/3NPeYIgSFRM/w958-h539-no/IMG_20130813_132531_027.jpg
+ */
+ background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
   background-size: cover;
@@ -17,6 +19,22 @@
   }
 }
 
+.site-title{
+  font-size: 2rem;
+  padding-top: 20px;
+  :hover{
+    font-size: 2.1rem;
+  }
+}
+.trigger{
+  padding-right: 50px;
+  font-size: 1.5rem;
+  padding-top: 20px;
+  :hover{
+    font-size: 2rem;
+  }
+}
+
 .home-button {
   margin: 10px;
   padding: 10px;
@@ -24,6 +42,7 @@
   border-radius: 2em;
   opacity: .7;
   text-shadow: none;
+  display: inline-block;
 }
 
 .home-button:hover {
