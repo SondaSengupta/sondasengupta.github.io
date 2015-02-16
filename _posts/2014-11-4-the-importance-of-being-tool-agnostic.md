@@ -1,7 +1,8 @@
 ---
 layout: post
-title: The Importance of Being Tool Agnostic
+title: Becoming Tool Agnostic
 img: "/images/dogtech.JPG"
+excerpt: "Tools have telos. Technology has telos. Everything in software engineering is for a purpose, and being too opinionated makes it too easy to miss it's purpose."
 date:   2014-11-04
 ---
 As a developer, your life becomes technology. Being immersed in it as part of your job makes you very aware of the hardware and software that is out there and soon you will know your favorites. You may prefer using an android to an iPhone and you may prefer writing in a certain language, but preferences are different than tools.

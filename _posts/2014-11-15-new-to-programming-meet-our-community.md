@@ -2,6 +2,7 @@
 layout: post
 title: Meet our Tech Community!
 img: "/images/nashvillenight.jpg"
+excerpt: "If you are serious about becoming a part of the tech industry, then what’s your excuse for not being *part* of the tech industry? It’s never too late or too early."
 date: 2014-11-15
 ---
 

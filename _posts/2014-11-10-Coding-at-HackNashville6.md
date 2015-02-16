@@ -2,6 +2,7 @@
 layout: post
 title: Coding at HackNashville 6!
 img: "/images/hacknashville6.jpeg"
+excerpt: "When I attended HackNashville 5, I knew absolutely nothing about coding. I was in beginning of my career transition and I had taken a few tutorials online."
 date: 2014-11-10
 ---
 Coding at Hack Nashville 6!

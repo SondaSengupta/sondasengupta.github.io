@@ -1,0 +1,30 @@
+.blog-tile {
+  display: inline-block;
+  width: 39%;
+  padding: 6% 3% 6% 3%;
+  margin: 2%;
+  background-color: #fff;
+  img {
+    height: 250px;
+    width: 96%;
+    margin: -3% 2% 2% 2%;
+  }
+  .post-link{
+    font-weight: bold;
+  }
+}
+
+.post-list{
+  background-color: $grey-color-light;
+}
+
+
+
+@media (max-width: $on-palm) {
+  .blog-tile {
+    width: 90%;
+    margin: 1%;
+    padding: 4%;
+    display: inline-block;
+  }
+}

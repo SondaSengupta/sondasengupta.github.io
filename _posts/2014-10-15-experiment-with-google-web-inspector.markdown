@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Experiment with Google Web Inspector"
+title:  "Using with Google Web Inspector"
 img: "/images/google-inspector.jpg"
+excerpt: "I'm very new to coding. I tend to code it, save it, and then check my results by refreshing the browser window. I knew no other way. Enter Google Web Inspector."
 date:   2014-10-15
 ---
 So, I'm quite new to coding, especially considering this is my second week at the Nashville Software School. I tend to code it, save it, and then check my results by refreshing the browser window. It can make troubleshooting a bit slow, but alas, I knew no other way.

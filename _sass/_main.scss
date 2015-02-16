@@ -51,6 +51,7 @@
   background-color: lightgray;
   text-decoration: none;
 }
+
 .home-tile {
 float: left;
 display: block;
@@ -64,18 +65,4 @@ h3 {
 
 .home-body h1.post-title{
   display: none;
-}
-
-.blog-tile {
-  display: inline-block;
-  margin: 2.35765%;
-  width: 23.23176%;
-  .post-link{
-    font-weight: bold;
-  }
-  img {
-    height: 200px;
-    width: 200px;
-    display: block;
-  }
 }

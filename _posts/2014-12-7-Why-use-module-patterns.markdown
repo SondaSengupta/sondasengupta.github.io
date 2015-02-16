@@ -2,6 +2,7 @@
 layout: post
 title: Why use Module Patterns?
 img: "/images/modulefloortile.jpg"
+excerpt: "I like to think that module patterns is the next level to coding for a beginner. You are not merely content anymore to have working code. You want cleaner, more efficient code."
 date: 2014-12-7
 ---
 In the beginning, when I was first learning Javascript a wee month ago, I knew nothing about modules. It was more important that I just get the code working. When you are starting out with your first language, you tend to mishmash things together and cross your fingers hoping it will do what you had in mind. With trial and error, the mistakes become less and the code starts to do more of what you want, and more importantly, you start to understand how it all works.
