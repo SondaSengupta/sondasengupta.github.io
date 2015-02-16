@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title:  "Using with Google Web Inspector"
 img: "/images/google-inspector.jpg"
 excerpt: "I'm very new to coding. I tend to code it, save it, and then check my results by refreshing the browser window. I knew no other way. Enter Google Web Inspector."

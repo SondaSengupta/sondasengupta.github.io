@@ -1,0 +1,12 @@
+---
+layout: post
+category: portfolio
+title: JS Koans
+img: "/images/jskoans.jpg"
+excerpt: "These koans were quite the challenge and yes, I do feel a tad bit more enlighted upon their completion."
+date: 2014-11-15
+---
+
+But I don’t know anyone there. I hate going to “networking” events. I’ve only been programming x amount of x and I know nothing at all. I’m not really a developer or web designer or engineer. I don’t even understand the title of the talk. What can I really contribute here? I’m not a “people” person. But I really have to do that [useless] thing that day…
+
+If you are serious about becoming a part of the tech industry, then what’s your excuse for not be

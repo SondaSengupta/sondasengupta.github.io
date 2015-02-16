@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: "Do I need a Mac to be a Developer?"
 img: "/images/windows.jpg"
 excerpt: "If you are just starting out as a developer, you may have noticed that the majority of people have macbooks. What gives?"
