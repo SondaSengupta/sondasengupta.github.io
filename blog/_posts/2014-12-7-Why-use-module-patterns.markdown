@@ -2,7 +2,8 @@
 layout: post
 category: blog
 title: Why use Module Patterns?
-img: "/images/modulefloortile.jpg"
+img: "blog-img/modulefloortile.jpg"
+homeimage: "blog/blog-img/modulefloortile.jpg"
 excerpt: "I like to think that module patterns is the next level to coding for a beginner. You are not merely content anymore to have working code. You want cleaner, more efficient code."
 date: 2014-12-7
 ---

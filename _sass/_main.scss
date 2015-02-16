@@ -66,3 +66,39 @@ h3 {
 .home-body h1.post-title{
   display: none;
 }
+
+.hometile-wrapper{
+  display: inline-block;
+}
+
+.homepost-wrapper{
+  display: block;
+  h1{
+    display: block;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+}
+
+.post-list{
+  background-color: #F0F0F5;
+}
+
+.post-tile {
+  display: inline-block;
+  width: 39%;
+  padding: 6% 3% 6% 3%;
+  margin: 2%;
+  background-color: #fff;
+  img {
+    /* pictures are 430px width by 250px height */
+    height: 250px;
+    width: 96%;
+    margin: -3% 2% 2% 2%;
+  }
+  .post-link{
+    font-weight: bold;
+  }
+}

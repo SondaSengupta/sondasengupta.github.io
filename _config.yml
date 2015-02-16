@@ -11,4 +11,4 @@ github_username:  sondasengupta
 # Build settings
 markdown: kramdown
 
-highlighter: none
+highlighter: pygments
