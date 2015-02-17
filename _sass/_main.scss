@@ -102,3 +102,27 @@ h3 {
     font-weight: bold;
   }
 }
+
+.site-footer{
+  margin: 30px;
+  text-align: center;
+  h1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .footer-icons{
+    list-style: none;
+    display: block;
+    li {
+      display: inline;
+      :hover img{
+        opacity: .5;
+      }
+    }
+  }
+  p{
+    font-style: italic;
+    font-weight: bold;
+  }
+}
