@@ -1,0 +1,10 @@
+---
+layout: post
+category: portfolio
+title: The Twisted Time Traveller
+img: "port-img/jskoans.jpg"
+tools: JQuery, Grunt, & SASS
+homeimage: "portfolio/port-img/jskoans.jpg"
+excerpt: "These koans were quite the challenge since it was the first ever experiencing a testing environment and yes, I do feel a tad bit more enlightened upon their completion."
+date: 2015-1-23
+---

@@ -57,7 +57,9 @@ permalink: /
             <p>{{post.excerpt}}
               <a href="{{ post.url | prepend: site.baseurl }}">More...</a>
             </p>
-            <span class="post-meta post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href={{post.app}}><img class="portfolio-icon" src="portfolio/port-img/play-icon.png" title= "Go to the App"></a>
+            <a href={{post.github}}><img class="portfolio-icon" src="portfolio/port-img/small-github-icon.png" title= "Go to Github Page"></a>
+            <span class="post-meta portfolio-date">{{ post.date | date: "%b %-d, %Y" }}</span>
           </li>
         {% endif %}
         {% if post.categories contains 'resources' %}
