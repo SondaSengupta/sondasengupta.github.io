@@ -15,6 +15,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    margin-left: 20px;
 
     &,
     &:visited {
@@ -75,7 +76,7 @@
 
         &:hover .trigger {
             display: block;
-            
+
         }
 
         .page-link {
@@ -188,6 +189,10 @@
 /**
  * Posts
  */
+.post {
+   margin: 20px;
+ }
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
