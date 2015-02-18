@@ -2,8 +2,7 @@
 layout: post
 category: blog
 title:  "404 and other Status Codes"
-img: "blog-img/http.jpg"
-homeimage: "blog/blog-img/http.jpg"
+img: "/images/http.jpg"
 excerpt: "Google says 'Aw, Snap!' or 'He's dead Jim' but for us web developers, HTML status codes can provide much more information behind the scenes."
 date:   2014-10-22
 ---

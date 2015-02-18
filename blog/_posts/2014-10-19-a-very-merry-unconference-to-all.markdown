@@ -2,8 +2,7 @@
 layout: post
 category: blog
 title:  A Very Merry Barcamp 2014
-img: "blog-img/barcamp.png"
-homeimage: "blog/blog-img/barcamp.png"
+img: "/images/barcamp.png"
 excerpt: "What, you don't know what an unconference is? It is an unbirthday for technology. It is an attendee-driven event made by users for users."
 date:   2014-10-19
 ---

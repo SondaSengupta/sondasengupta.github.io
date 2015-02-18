@@ -2,8 +2,7 @@
 layout: post
 category: blog
 title: Coding at HackNashville 6!
-img: "blog-img/hacknashville6.jpeg"
-homeimage: "blog/blog-img/hacknashville6.jpeg"
+img: "/images/hacknashville6.jpeg"
 excerpt: "When I attended HackNashville 5, I knew absolutely nothing about coding. I was in beginning of my career transition and I had taken a few tutorials online."
 date: 2014-11-10
 ---

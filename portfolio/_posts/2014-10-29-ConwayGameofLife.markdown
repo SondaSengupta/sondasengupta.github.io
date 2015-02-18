@@ -2,11 +2,10 @@
 layout: post
 category: portfolio
 title: Conway's Game of Life
-img: "port-img/ConwayGame.png"
+img: "/images/ConwayGame.png"
 tools: Javascript vanilla-style :)
 app: https://rawgit.com/SondaSengupta/ConwayGameofLife/master/index.html
 github: https://github.com/SondaSengupta/ConwayGameofLife
-homeimage: "portfolio/port-img/ConwayGame.png"
 excerpt: "Conway's Game was a study in pure Javascript, CSS, and HTML and one of the earliest projects created during my time at the Nashville Software School."
 date: 2014-10-29
 ---

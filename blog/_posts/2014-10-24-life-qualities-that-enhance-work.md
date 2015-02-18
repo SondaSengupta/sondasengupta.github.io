@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title:  "Life Qualities that Enhance Work"
+img: "/images/lifequalities.jpg"
 excerpt: "Just because we are embarking on a new vocation does not negate all the richness, experience, and quality from our lives that have led us to where we are."
 date:   2014-10-24
 ---

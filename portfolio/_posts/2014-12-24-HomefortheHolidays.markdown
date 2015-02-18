@@ -2,18 +2,13 @@
 layout: post
 category: portfolio
 title: Homes for the Holidays
-img: "port-img/HolidayHomesApp.jpg"
+img: "/images/HolidayHomesApp.jpg"
 tools: Angular, Twitter Bootstrap, & Angular Google Maps
-homeimage: "portfolio/port-img/HolidayHomesApp.jpg"
 app: "https://holidayhome.firebaseapp.com/#/"
 github: "https://github.com/SondaSengupta/HomefortheHolidays"
 excerpt: "This is a site where people can share their favorite Christmas home displays. The markers are prepopulated with data from the Nashville Lights Competition."
-date: 2014-12-24
+date: 2014-12-25
 ---
-<!-- ![Holiday Homes Home Page](../port-img/HolidayHomesLogin.jpg "Homepage") -->
-
-
-
 ##About the App
 The inspiration of this website came from a very practical problem. One of the few traditions in my family during winter is to go out and see the Christmas lights. However, if you've done it with your own family, it can be a pretty hit or miss endeavor. You might go into a whole neighborhood drawn by the beautiful lights of one home only to find the rest of the suburb doesn't share the same festive spirit.
 

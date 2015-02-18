@@ -2,9 +2,8 @@
 layout: post
 category: portfolio
 title: Simple Calculator
-img: "port-img/Calculator.png"
+img: "/images/Calculator.png"
 tools: Mocha/Chai Testing & JQuery
-homeimage: "portfolio/port-img/Calculator.png"
 app: "https://rawgit.com/SondaSengupta/Calc/master/index.html"
 github: "https://github.com/SondaSengupta/Calc"
 excerpt: "This calculator was foremost a study in unit testing using the mocha/chai testing framework and done as a pair programming project with Leon Peck."

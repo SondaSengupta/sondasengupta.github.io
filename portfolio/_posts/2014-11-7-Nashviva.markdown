@@ -2,9 +2,8 @@
 layout: post
 category: portfolio
 title: NashViva! with Code for Nashville
-img: "port-img/NashViva.jpg"
+img: "/images/NashViva.jpg"
 tools: Javascript & LeafLet Open Street Map
-homeimage: "portfolio/port-img/NashViva.jpg"
 app: "http://nashviva.codefornashville.org/"
 github: "https://github.com/code-for-nashville/nashviva"
 excerpt: "This was a proof of concept app was done during HackNashville 6 in which I teamed up with Code for Nashville to produce an amenities map."

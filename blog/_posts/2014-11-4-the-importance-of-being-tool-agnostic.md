@@ -2,8 +2,7 @@
 layout: post
 category: blog
 title: Becoming Tool Agnostic
-img: "blog-img/dogtech.JPG"
-homeimage: "blog/blog-img/dogtech.JPG"
+img: "/images/manytech.jpg"
 excerpt: "Tools have telos. Technology has telos. Everything in software engineering is for a purpose, and being too opinionated makes it too easy to miss it's purpose."
 date:   2014-11-04
 ---

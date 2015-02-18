@@ -2,11 +2,12 @@
 layout: post
 category: blog
 title: Meet our Tech Community!
-img: "blog-img/nashvillenight.jpg"
-homeimage: "blog/blog-img/nashvillenight.jpg"
+img: "/images/nashvillenight.jpg"
 excerpt: "If you are serious about becoming a part of the tech industry, then what’s your excuse for not being *part* of the tech industry? It’s never too late or too early."
 date: 2014-11-15
 ---
+
+<img src="/images/nashvillenight.jpg" width="500px" height="300">
 
 But I don’t know anyone there. I hate going to “networking” events. I’ve only been programming x amount of x and I know nothing at all. I’m not really a developer or web designer or engineer. I don’t even understand the title of the talk. What can I really contribute here? I’m not a “people” person. But I really have to do that [useless] thing that day…
 

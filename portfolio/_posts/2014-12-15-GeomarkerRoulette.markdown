@@ -2,9 +2,8 @@
 layout: post
 category: portfolio
 title: Geomarker Roulette
-img: "port-img/GeomarkerRoulette.jpg"
+img: "/images/GeomarkerRoulette.jpg"
 tools: Angular & Google Maps API
-homeimage: "portfolio/port-img/GeomarkerRoulette.jpg"
 app: "https://geomarker-roulette.firebaseapp.com/"
 github: "https://github.com/SondaSengupta/Geomarker-Roulette"
 excerpt: "Guess the coordinates of a random bullseye on the map. This game was a simple afternoon diversion to study Angular and Maps for a larger project. "
