@@ -7,7 +7,7 @@ tools: Angular & Google Maps API
 homeimage: "portfolio/port-img/GeomarkerRoulette.jpg"
 app: "https://geomarker-roulette.firebaseapp.com/"
 github: "https://github.com/SondaSengupta/Geomarker-Roulette"
-excerpt: "These koans were quite the challenge since it was the first ever experiencing a testing environment and yes, I do feel a tad bit more enlightened upon their completion."
+excerpt: "Guess the coordinates of a random bullseye on the map. This game was a simple afternoon diversion to study Angular and Maps for a larger project. "
 date: 2014-12-15
 ---
 
