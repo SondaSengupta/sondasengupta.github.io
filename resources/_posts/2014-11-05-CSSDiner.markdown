@@ -1,0 +1,28 @@
+---
+layout: post
+category: resources
+about: CSS selectors
+title:  "Site Review: CSS Diner"
+img: "/images/cssdiner.jpg"
+link: "https://flukeout.github.io/"
+excerpt: "CSS selectors are extremely important to understand in web design and this site makes gives a fun interesting way to help you learn your selectors."
+date: 2014-11-05
+---
+
+![HomePage](/images/cssdiner.jpg)
+
+CSS selectors can become pretty tricky pretty quickly, but learning it does not have to be tedious. Luke Pacholski with the help of others made this nifty game called CSS Diner. There are 26 levels, each one guiding through a particular concept where you select a certain item on the table.
+
+The explanation of each selector is stated clearly on the right, and if you're feeling confident, you can click the hamburger menu to the top right corner. It will give you a preview of all selectors, and clicking on them will take you to that css puzzle if you want to skip ahead.
+
+##Features
+
+- Each level will take you through a css selector.
+- I love the delightful animations and graphics as you puzzle your way through.
+- There is the ability to skip ahead to less well known selectors if you choose.
+- Each level has a good explanation of the selector on the right hand panel.
+
+
+
+##Links
+Experience the [CSS Diner](https://flukeout.github.io/)
