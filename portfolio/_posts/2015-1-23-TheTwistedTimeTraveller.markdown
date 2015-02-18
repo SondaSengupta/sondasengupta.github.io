@@ -7,7 +7,7 @@ tools: JQuery, Angular, & SASS
 homeimage: "portfolio/port-img/TwistedTimeTraveller1.jpg"
 app: "https://twistedtimetraveller.firebaseapp.com/#/"
 github: "https://github.com/beck410/GJ_Timetravel"
-excerpt: "This simple JS game was made over a weekend at the 2015 Global Game Jam where the theme was 'What do we do now?' Our team went with a time travelling choose-your-own-adventure story."
+excerpt: "Created at the 2015 Global Game Jam where the theme was 'What do we do now?' Our team decided on a time-travelling choose-your-own-adventure story."
 date: 2015-1-23
 ---
 
