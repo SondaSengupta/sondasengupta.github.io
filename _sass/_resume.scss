@@ -1,1 +1,22 @@
+#resume {
+  margin: 20px;
 
+  h2 {
+    text-align: center;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+
+  .page-content{
+    background-color: #E7E6EB;
+    padding-top: 30px;
+    border: dotted gray 1px;
+  }
+}
