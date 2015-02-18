@@ -5,7 +5,7 @@ about: CSS selectors
 title:  "Site Review: CSS Diner"
 img: "/images/cssdiner.jpg"
 link: "https://flukeout.github.io/"
-excerpt: "CSS selectors are extremely important to understand in web design and this site makes gives a fun interesting way to help you learn your selectors."
+excerpt: "CSS selectors are extremely important to understand in web design and this site gives a fun interesting way to help you learn your selectors."
 date: 2014-11-05
 ---
 
