@@ -2,7 +2,7 @@
 layout: post
 category: portfolio
 title: The Twisted Time Traveller
-img: "/images/TwistedTimeTraveller1.jpg"
+img: "/images/TwistedTimeTraveller1.png"
 tools: JQuery, Angular, & SASS
 app: "https://twistedtimetraveller.firebaseapp.com/#/"
 github: "https://github.com/beck410/GJ_Timetravel"
@@ -10,7 +10,7 @@ excerpt: "Created at the 2015 Global Game Jam where the theme was 'What do we do
 date: 2015-01-23
 ---
 
-![image](/images/TwistedTimeTraveller1.jpg)
+![image](/images/TwistedTimeTraveller1.png)
 
 ##About the Game
 

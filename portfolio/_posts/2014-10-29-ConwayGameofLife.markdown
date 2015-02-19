@@ -10,6 +10,9 @@ excerpt: "Conway's Game was a study in pure Javascript, CSS, and HTML and one of
 date: 2014-10-29
 ---
 
+
+![image](/images/ConwayGame.png)
+
 ##About the App
 
 This site was one of the earliest ones I've created during the Nashville Software School experience where I was just a budding Javascript programmer at the time. We were still learning tables, if-else statements, and for loops back then.

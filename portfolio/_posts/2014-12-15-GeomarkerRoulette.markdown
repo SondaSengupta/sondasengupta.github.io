@@ -9,6 +9,7 @@ github: "https://github.com/SondaSengupta/Geomarker-Roulette"
 excerpt: "Guess the coordinates of a random bullseye on the map. This game was a simple afternoon diversion to study Angular and Maps for a larger project. "
 date: 2014-12-15
 ---
+![image](/images/GeomarkerRoulette.jpg)
 
 ##About the App
 
