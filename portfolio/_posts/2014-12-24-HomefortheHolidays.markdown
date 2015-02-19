@@ -20,22 +20,13 @@ Thus, my Nashville Software School Mid-Capstone project was a site that people c
 As of this moment, the markers have been prepopulated with data from the annual Nashville Lights Competition winners.
 
 ###Features
--Ability to view homes on map by geolocation or entering a street address without needing to log in.
+- Ability to view homes on map by geolocation or entering a street address without needing to log in.
+- You can preview a home's picture, street address, and notes by clicking on its marker which brings up its infobox.
+- If you are logged in, you can add comments into the Fireside Chat section.
+- The member's map has the ability to edit information directly from a marker's infobox. Members can also view all homes in the database as a table.
+- Log In/ Log out/ Forget Password is fully functional through Firebase.
 
--You can preview a home's picture, street address, and notes by clicking on its marker which brings up its infobox.
-
--If you are logged in, you can add comments into the Fireside Chat section.
-
--The member's map has the ability to edit information directly from a marker's infobox. Members can also view all homes in the database as a table.
-
--Log In/ Log out/ Forget Password is fully functional through Firebase.
-
-
-###Pictures
--picture of front of site
--picture of the map with a home's infobox
--picture of login page
--picture of fireside chat
+![Maps Page](/images/HolidayHomesMap.jpg)
 
 ##About the Process
 There were a few major hurdles in the creation of this site. First, the Google Maps API and Angular didn't play well together the first time around, since the map did not automatically refresh when changing views. I was able to fix this by using Angular Google Maps, an API specifically designed for the two built by some really clever people. Second, Google Maps took a really long time to load, especially with the addition of more markers. This is an ongoing issue, and the only half-baked solution I had so far was to increase user awareness by adding a loading bar.

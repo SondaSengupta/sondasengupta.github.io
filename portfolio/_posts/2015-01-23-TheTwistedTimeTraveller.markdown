@@ -33,17 +33,15 @@ At the Global Game Jam, you have 48 hours to make a game and then present it to 
 Even though it was barebones, we were applauded for the intricacy of the plotline done in such a short time. It was amazing to meet bona fide Nashville game developers and we all had an awesome time at the event. A special thanks to Dave for the graphics, Mathew for the story and dialogue, and of course my dev team members Alex (we tried adding him in the photo via laptop), Brandon, and Beck.
 
 ##Links and Tools
--[Click Here](https://twistedtimetraveller.firebaseapp.com/#/) to play the game.
-
--[Click Here](https://github.com/beck410/GJ_Timetravel) to view the code on Github.
-
--Learn more about [AngularJS](https://angularjs.org/)
-
--Learn more about [Twitter Bootstrap](http://getbootstrap.com/)
-
--Learn more about [Nashville Game Jam 2015](http://globalgamejam.org/2015/jam-sites/nashville-game-developers)
-
--Learn more about [Global Game Jam](http://globalgamejam.org/)
+- [Click Here](https://twistedtimetraveller.firebaseapp.com/#/) to play the game.
+- [Click Here](https://github.com/beck410/GJ_Timetravel) to view the code on Github.
+- Learn more about [AngularJS](https://angularjs.org/)
+- Learn more about [Twitter Bootstrap](http://getbootstrap.com/)
+- Learn more about [Nashville Game Jam 2015](http://globalgamejam.org/2015/jam-sites/nashville-game-developers)
+- Learn more about [Global Game Jam](http://globalgamejam.org/)
 
 
-![Meet the Team](http://globalgamejam.org/sites/default/files/styles/game_sidebar__normal/public/games/team_pictures/img_2796.jpg?itok=H4QCDKpi)
+##Our Team
+Back is Dave Theck, Beck Cronin-Dixon, Mathew Ostrander and in the front is Brandon Tate, me, and Alex Story on the laptop.
+
+![Meet the Team](/images/TimeTravellerTeam.jpg)
