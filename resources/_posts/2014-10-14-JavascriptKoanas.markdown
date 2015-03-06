@@ -17,4 +17,4 @@ These Javascript koans were made by Liam Clennan and uses the Qunit syntax and t
 
 Koans in general are a very interesting way to learn since you are essentially coding to learn more coding. And if you are familiar with testing frameworks or test-driven development, then these koans use the same exact rules just within the concept of learning rather than for robust code creation. And once completed, you will rewarded with a slew of passing tests and perhaps Javascript enlightenment.
 
-![Koans Passing](/images/JSkoansPassing.jpg "Passing Koan Files in Qunit test runner")
+![Koans Passing](/images/JSKoansPassing.jpg "Passing Koan Files in Qunit test runner")
