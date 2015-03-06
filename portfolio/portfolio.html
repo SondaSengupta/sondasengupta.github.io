@@ -15,7 +15,9 @@ permalink: /portfolio/
         <p> {{post.excerpt}}
           <a href="{{ post.url | prepend: site.baseurl }}">More...</a>
         </p>
+        {% if post.app contains 'http' %}
         <a href={{post.app}}><img class="tile-icon" src="/icons/play-icon.png" title= "Go to the Demo"></a>
+        {% endif %}
         <a href={{post.github}}><img class="tile-icon" src="/icons/small-github-icon.png" title= "Go to Github Page"></a>
         <span class="post-meta post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>

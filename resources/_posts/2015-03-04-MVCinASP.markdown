@@ -1,0 +1,30 @@
+---
+layout: post
+category: resources
+about: Intro to ASP.NET MVC 5
+title:  "Tutorials: Intro to ASP.NET MVC5"
+img: "/images/MVCMovieShot.jpg"
+link: "http://www.asp.net/mvc/overview/getting-started/introduction/getting-started"
+excerpt: "This is a step-by-step guide to teaching you the newest MVC implementation in the ASP.NET web application made by Rick Anderson back in 2013."
+date: 2015-03-04
+---
+![Web Image](/images/MVCMovieShot.jpg "Completed web app")
+
+If you know the MVC pattern already but you've never done ASP.NET web applications, then this tutorial is a very good teacher. It doesn't matter that it is 2 years old, Rick will explain step-by-step and line by line how the code works.
+
+While I was going through the tutorial, I learned a lot more about post and get requests, just how powerful the EntityFramework can be at scaffolding, and performed my first data migration. When I wondered to myself "what does that code line do?", there was Rick a few sentences later saying exactly what it did.
+
+##Features
+- Gives you a good starting foundation on ASP.NET with a learn-by-doing approach
+- Clear explanations of how the code works
+- Numerous links within the tutorial if you want to delve deeper in a particular topic.
+
+##Not For
+- This is for Visual Studio Express 2013 for Web or Visual Studio 2013, which is the latest at the time of this writing.
+- This uses LocalDB which is installed by default in Visual Studio. This is not for learning about other database systems.
+- This does not go over the particulars of the MVC pattern. It is assumed that you are already familiar with it already.
+
+##Links
+- Check out the [Online Tutorial](http://www.asp.net/mvc/overview/getting-started/introduction/getting-started)
+- Check out the [Downloadable Version](https://code.msdn.microsoft.com/Getting-Started-with-91a65652)
+- An Example of a [Finished App from my Github](https://github.com/SondaSengupta/MVCMovies)
