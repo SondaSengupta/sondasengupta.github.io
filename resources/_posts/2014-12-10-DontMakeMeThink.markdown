@@ -17,7 +17,7 @@ On top of this, the book practices what it preaches. The content of the book is 
 
 As a budding web developer, this book is a must for your development shelf. For others who have to build their own site like small business owners, entrepreneurs, and volunteers this book will give you some good examples on the layout of your web pages to maximize their effectiveness.
 
-##Little Gems I've Learned
+## Little Gems I've Learned
 
 - Give the user a home button. It's way to recenter themselves if they become very lost in the pages and an easy way to return back to the beginning. Most of the time a logo of your site is a sufficient marker.
 - Give users some sense of navigation. Whether it is a navbar that is continually at the top or a list describing page hierarchy, it helps ease the difficulty of mentally mapping out your site.
@@ -25,7 +25,7 @@ As a budding web developer, this book is a must for your development shelf. For 
 
 Even if you can't get your hands on the latest version, any version will do since they all are packed with good material that will leave you with a better understanding of user experience.
 
-##Links
+## Links
 ![Amazon](/images/DontMakeMeThinkBook.png)
 
 - Check out the book on [Amazon](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515)
