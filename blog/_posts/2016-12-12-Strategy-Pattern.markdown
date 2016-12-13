@@ -11,7 +11,58 @@ date: 2016-12-12
 ## The Scenario
 Congratulations! You just won a contract to code out an app for your city zoo. You specifically are in charge of adding the full inventory of Bear logic, so they can keep track of how to feed the animals. The Zoo wants you to focus on 3 types of bears: Grizzly Bears, Panda Bears, and Teddy Bears and what they eat.
 
-So how would you code it? You can have a bear abstract class that has an abstract method of eat(), in which each bear has to implement a different form of the eat() method. However, the Zoo knows they will be adding more bears soon and many of them eat the same thing (grizzlies and polar bears both eat fish). If each bear owns its own implementation of eat, you know you'll have duplicate code which would be a pain to rework if the Zoo decides to changes their diets.
+So how would you code it? You can have a bear abstract class that has an abstract method of eat(), in which each bear has to implement a different form of the eat() method like below ...
+
+```C#
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Bear grizzlyBear = new GrizzlyBear();
+		grizzlyBear.Eat();
+		
+		Bear pandaBear = new PandaBear();
+		pandaBear.Eat();
+	}
+}
+
+public abstract class Bear {
+	public virtual void Eat()
+	{
+		Console.WriteLine("I eat Meat!");
+	}
+}
+
+public class GrizzlyBear : Bear {
+	//I will use the default implementation of the eat method inherited from Bear.
+	
+}
+
+public class PandaBear : Bear {
+	public override void Eat()
+	{
+		Console.WriteLine("I eat Bamboo!");
+	}
+}
+
+public class TeddyBear : Bear {
+	public override void Eat()
+	{	
+		Console.WriteLine("I don't Eat!");
+	
+	}
+}
+
+CONSOLE OUTPUT:
+I eat Meat!
+I eat Bamboo!
+
+```
+
+However, the Zoo knows they will be adding more bears soon and many of them eat the same thing (grizzlies and polar bears both eat fish). If each bear owns its own implementation of eat, you know you'll have duplicate code which would be a pain to rework if the Zoo decides to changes their diets.
+
 
 So how can you write different implementations that are completely decoupled from its clients? The Strategy Pattern, of course!
 
@@ -27,4 +78,6 @@ A concrete family of functions all inherit from an interface. This interface is 
 
 It uses composition, rather than inheritance where the client has-a behavioral strategy as opposed to owning the behavioral strategy itself or inheriting it from a parent.
 
-## 
+## Back to the Scenario
+
+
