@@ -1,4 +1,4 @@
-
+---
 layout: post
 category: blog
 title: "C# Design Patterns: The Strategy Pattern"
@@ -6,7 +6,7 @@ img: "/images/macbook.jpg"
 homeimage: "blog/blog-img/windows.jpg"
 excerpt: "If you are just starting out as a developer, you may have noticed that the majority of people have macbooks. What gives?"
 date: 2016-12-12
-
+---
 
 ## The Scenario
 Congratulations! You just won a contract to code out an app for your city zoo. You specifically are in charge of adding the full inventory of Bear logic, so they can keep track of how to feed the animals. The Zoo wants you to focus on 3 types of bears: Grizzly Bears, Panda Bears, and Teddy Bears and what they eat.
