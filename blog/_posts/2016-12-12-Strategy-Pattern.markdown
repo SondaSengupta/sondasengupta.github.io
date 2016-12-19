@@ -13,7 +13,7 @@ Congratulations! You just won a contract to code out an app for your city zoo. Y
 
 So how would you code it? You can have a bear abstract class that has an abstract method of eat(), in which each bear has to implement a different form of the eat() method like below ...
 
-```C#
+``` csharp
 using System;
 					
 public class Program
