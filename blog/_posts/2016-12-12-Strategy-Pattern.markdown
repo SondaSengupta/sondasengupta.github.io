@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: "C# Design Patterns: The Strategy Pattern"
+title: "C# Patterns: The Strategy Pattern"
 img: "/images/macbook.jpg"
 homeimage: "blog/blog-img/windows.jpg"
 excerpt: "If you are just starting out as a developer, you may have noticed that the majority of people have macbooks. What gives?"
