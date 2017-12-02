@@ -11,13 +11,13 @@ date: 2015-03-03
 
 ![image](/images/FortuneFullWindow.jpg)
 
-##About the App
+## About the App
 Created in the Visual Studio IDE, this is a small Windows Desktop app that allows you to save your favorite fortune cookie sayings. When you press one of the category buttons, it will return a random fortune for you from the SQL Express Database.
 
-##Features
+## Features
 - Ability to save your favorite fortunes so you don't have to save all those small fortune slips that get lost easily.
 - Easy organization categories of career, relationships, health, and life (a category that randomizes all fortunes)
 - All CRUD (create, read, update, delete) operations are fully functional
 
-##Links
+## Links
 - Click Here to [View on Github](https://github.com/SondaSengupta/MakeYourFortune)
