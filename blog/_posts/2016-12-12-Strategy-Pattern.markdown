@@ -4,7 +4,7 @@ category: blog
 title: "C# Patterns: The Strategy Pattern"
 img: "/images/macbook.jpg"
 homeimage: "blog/blog-img/windows.jpg"
-excerpt: "If you are just starting out as a developer, you may have noticed that the majority of people have macbooks. What gives?"
+excerpt: "What is the strategy pattern and when to use it."
 date: 2016-12-12
 ---
 
@@ -77,7 +77,3 @@ The biggest disadvantage is that it is a bit more setup. If you know for a fact 
 A concrete family of functions all inherit from an interface. This interface is used in the client, which allows each concrete implementation of the client to have the function it needs available for use.
 
 It uses composition, rather than inheritance where the client has-a behavioral strategy as opposed to owning the behavioral strategy itself or inheriting it from a parent.
-
-## Back to the Scenario
-
-
