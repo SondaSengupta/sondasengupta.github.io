@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  "Lessons from Updating A Legacy App"
 img: "/images/http.jpg"
-excerpt: "Over the course of a year and a half, our team took a monolothic legacy application and moved chunks into microservices. Here is what we learned."
+excerpt: "Our team took a monolothic legacy application and moved chunks into a new app. Here is what we learned."
 date:   2017-11-11
 ---
 Over the course of a year and a half, our team took a large monolothic legacy application and broke it down into microservices. These are the lessons we learned from launching a brand-new app as our business used the legacy application.
