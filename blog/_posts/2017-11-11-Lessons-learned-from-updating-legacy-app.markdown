@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title:  "Lessons Learned from Updating A Legacy App"
+title:  "Lessons from Updating A Legacy App"
 img: "/images/http.jpg"
 excerpt: "Over the course of a year and a half, our team took a monolothic legacy application and moved chunks into microservices. Here is what we learned."
 date:   2017-11-11
