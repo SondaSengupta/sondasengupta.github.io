@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title:  "On Learning Technology"
-img: "/images/http.jpg"
+img: "/images/learning.jpeg"
 excerpt: "A few truths on learning efficiently within software development."
 date:   2018-1-22
 ---
