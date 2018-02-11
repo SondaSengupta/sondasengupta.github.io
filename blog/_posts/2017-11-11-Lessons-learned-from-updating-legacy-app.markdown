@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title:  "Lessons from Updating A Legacy App"
+title:  "On Updating A Legacy App"
 img: "/images/http.jpg"
 excerpt: "Our team took a monolothic legacy application and moved chunks into a new app. Here is what we learned."
 date:   2017-11-11

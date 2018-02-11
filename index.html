@@ -7,26 +7,18 @@ permalink: /
     <div class="page-lead">
     <h1 class="main-hello">Hello world, I'm Sonda!</h1>
     <h2> Software Developer </h2>
-    <span> <a href="/portfolio/" class="home-button">View my Portfolio</a> or
+    <span> <a href="/blog/" class="home-button">View Articles</a> or
     <a href="https://github.com/sondasengupta" class="home-button">Peruse my Github</a> </span>
   </div>
 
   <div class="hometile-wrapper">
     <div class="home-tile">
-      <h3> About Me </h3>
       <img class = "headshot" src="images/headshot.jpg" alt="pic of Sonda">
-      <p> I've loved creating things ever since I was a kid from whimsical art to practical objects.</p>
-      <p> Bringing together my two passions of art and practicality, <b><i> I make beautiful, useful software for a living. </b></i> </p>
   </div>
     <div class="home-tile">
-      <h3> My Passions</h3>
-      <p> My front end experience includes <b>HTML, CSS, SASS, Bootstrap, Javascript, including JQuery and Angular.</b> What I love about front-end is figuring out how to create a rich, intuitive experience for users.</p>
-      <p> My back end experience includes the <b>.NET Framework with SQL Server.</b> What makes back-end satisfying is structuring the brains and heart of an app-- the business logic and its database.</p>
+      <p> I've loved creating things ever since I was a kid. Nowadays, I make software for a living.</p>      
     </div>
     <div class="home-tile">
-      <h3> Code a Better World</h3>
-      <p>After finishing up at Nashville Software School, I'm currently a full stack application developer at HCA.</p>
-      <p>Front-end, back-end, new technology or old -- I'm always looking for opportunities to be part of a great team with the opportunity to build great things.</p>
       <p>
         If you would like to get in touch just send a LinkedIn message at
         <a href="https://www.linkedin.com/pub/sonda-sengupta/57/121/948"> my LinkedIn profile</a>
@@ -35,11 +27,10 @@ permalink: /
   </div>
 
   <div class="homepost-wrapper">
-    <h1> Latest Posts </h1>
       <ul class="post-list">
-      {% for post in site.posts limit:6 %}
+      {% for post in site.posts %}
         {% if post.categories contains 'blog' %}
-          <li class="post-tile blog-tile">
+          <li class="post-tile">
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img class="largeimg" src={{post.img}}>{{ post.title }}</a>
             </h2>
@@ -51,7 +42,7 @@ permalink: /
           </li>
         {% endif %}
         {% if post.categories contains 'portfolio' %}
-          <li class="post-tile portfolio-tile">
+          <li class="post-tile">
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img class="largeimg" src={{post.img}}>{{ post.title }}</a>
             </h2>
