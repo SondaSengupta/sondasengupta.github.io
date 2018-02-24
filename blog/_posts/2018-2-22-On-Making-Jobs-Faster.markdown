@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title:  "On Making Jobs Faster"
-img: "/images/learning.jpeg"
+img: "/images/speed.jpg"
 excerpt: "We wanted to make a complex job faster. Here are some tips to tried to speed up performance."
 date:   2018-2-22
 ---
@@ -28,3 +28,7 @@ Profilers can be such a godsend when you’re combing through thousands of lines
 
 ### Analyze Business Need.
 As a rule, whenever our objects change, we log the change in history tables. With this job as well, we were saving all changes we made to each object, so each change was saved in history which meant double, sometimes triple the amount of sql calls. Turns out that the business honestly didn't care about saving history information because most of it was bad data anyway that they just wanted to delete.
+
+#### Helpful Links
+- [Profile Application Performance in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/profiling/beginners-guide-to-performance-profiling)
+- [Start SQL Profiling](https://technet.microsoft.com/en-us/library/ms173799(v=sql.110).aspx)
